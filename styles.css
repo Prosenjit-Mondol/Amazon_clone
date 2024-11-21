@@ -166,4 +166,14 @@ span{
     height: 400px;
     width: 23%;
     background-color: white;
+    padding: 20px 0px 15px;
+}
+
+.box-img{
+    height: 300px;
+}
+
+.box-content{
+    margin-left: 10px;
+    margin-right: 10px;
 }
